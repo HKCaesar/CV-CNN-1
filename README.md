@@ -1,10 +1,10 @@
 Complex-Valued Convolutional Neural Network and Its Application in PoSAR Image Classification
 
-Requirements
+Requirements:   
 Matlab
 
-Experiments
-The test demo is on Flevoland dataset acquired by the AIRSAR sensor with L band.
+Experiments:
+The test demo is on Flevoland dataset acquired by the AIRSAR sensor with L band
 
 1. data preparation 
 run dataset_create.m to create train and test data
